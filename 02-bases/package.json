@@ -4,7 +4,9 @@
   "description": "Esta es mi primera aplicacion real de Node",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "echo 'Hola mundo desde dev' "
   },
   "author": "Alan Cabot",
   "license": "ISC"
